@@ -1,0 +1,22 @@
+{
+    "requestContext": {
+        "routeKey": "$default",
+        "messageId": "f7gz7eF_rPECHNw=",
+        "eventType": "MESSAGE",
+        "extendedRequestId": "f7gz7EbJLPEFscQ=",
+        "requestTime": "26/May/2021:09:29:09 +0000",
+        "messageDirection": "IN",
+        "stage": "production",
+        "connectedAt": 1622021348501,
+        "requestTimeEpoch": 1622021349856,
+        "identity": {
+            "sourceIp": "93.79.44.87"
+        },
+        "requestId": "f7gz7EbJLPEFscQ=",
+        "domainName": "eh0ez2ovu6.execute-api.eu-west-2.amazonaws.com",
+        "connectionId": "f7gzueFtrPECHNw=",
+        "apiId": "eh0ez2ovu6"
+    },
+    "body": "asd",
+    "isBase64Encoded": false
+}
